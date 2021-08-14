@@ -1,0 +1,1 @@
+var mageplazaSearchProducts = [{"value":"\u0412\u044a\u0437\u0433\u043b\u0430\u0432\u043d\u0438\u0446\u0430 \u0437\u0430 \u043a\u044a\u0440\u043c\u0435\u043d\u0435","c":["3"],"d":"","p":39.99,"i":"http:\/\/new.vikababy.com\/static\/version1620254922\/frontend\/Magento\/luma\/bg_BG\/Magento_Catalog\/images\/product\/placeholder\/small_image.jpg","u":"vazglavnica-za-karmene.html"}]
