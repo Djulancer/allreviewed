@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+new.vikababy.com	TRUE	/	FALSE	1999999999	PHPSESSID	204ib0kc55u51s4pd9cgpgrvq0
+new.vikababy.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

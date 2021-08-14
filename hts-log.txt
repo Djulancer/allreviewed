@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 14 Aug 2021 03:15:06 at https://new.vikababy.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Pxs2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "bg, en, *" https://new.vikababy.com/ -O1 "C:\Users\Ju\Desktop\vikababy" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:15:32	Error: 	"Not Found" (404) at link https://new.vikababy.com/https (from https://new.vikababy.com/)
+03:16:02	Warning: 	Moved Permanently for https://new.vikababy.com/politika-za-poveritelnost/
+03:16:02	Warning: 	File has moved from https://new.vikababy.com/politika-za-poveritelnost/ to https://new.vikababy.com/politika-za-poveritelnost
+03:16:02	Warning: 	Found for https://new.vikababy.com/gdpr/
+03:16:02	Warning: 	File has moved from https://new.vikababy.com/gdpr/ to http://new.vikababy.com/
+03:16:08	Error: 	"Not Found" (404) at link https://new.vikababy.com/media/catalog/product/ (from https://new.vikababy.com/)
+03:16:36	Error: 	"Not Found" (404) at link https://new.vikababy.com/static/version1628677971/frontend/Smartwave/porto/bg_BG/owl.carousel/assets/owl.video.play.png (from https://new.vikababy.com/static/version1628677971/frontend/Smartwave/porto/bg_BG/owl.carousel/assets/owl.carousel.css)
+03:16:37	Error: 	"Not Found" (404) at link https://new.vikababy.com/static/version1628677971/frontend/Smartwave/porto/bg_BG/Magezon_Core/css/fonts/mgz_icons.eot?lbpphw (from https://new.vikababy.com/static/version1628677971/frontend/Smartwave/porto/bg_BG/Magezon_Core/css/mgz_font.css)
+03:16:37	Error: 	"Not Found" (404) at link https://new.vikababy.com/static/version1628677971/frontend/Smartwave/porto/bg_BG/Magezon_Builder/fonts/mgz_openiconic.eot?54101537 (from https://new.vikababy.com/static/version1628677971/frontend/Smartwave/porto/bg_BG/Magezon_Builder/css/openiconic.min.css)
+03:16:37	Error: 	"Not Found" (404) at link https://new.vikababy.com/static/version1628677971/frontend/Smartwave/porto/bg_BG/Magezon_Builder/images/loader.gif (from https://new.vikababy.com/static/version1628677971/frontend/Smartwave/porto/bg_BG/Magezon_Builder/css/styles.css)
+03:16:42	Error: 	"Not Found" (404) at link https://new.vikababy.com/checkout/cart/https (from https://new.vikababy.com/checkout/cart/)
+03:16:50	Error: 	"Not Found" (404) at link https://new.vikababy.com/catalogsearch/advanced/https (from https://new.vikababy.com/catalogsearch/advanced/)
+03:17:39	Error: 	"Not Found" (404) at link https://new.vikababy.com/media/Images/pp-belt/61V6mJtL3_L._SL1000_.jpg (from https://new.vikababy.com/universalna-razg-vaema-ranica-za-kolichka-s-funkcija-koshara-i-podlozhka-za-smjana.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 2 seconds : 617 links scanned, 605 files written (41904152 bytes overall) [33711721 bytes received at 185229 bytes/sec], 11215982 bytes transferred using HTTP compression in 147 files, ratio 18%, 32.4 requests per connection
+(9 errors, 4 warnings, 0 messages)
